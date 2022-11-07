@@ -1,0 +1,6 @@
+% Model:                alpha500_Robin_SourceSink.mph
+% Version:              COMSOL 4.1.0.88
+% Date:                 May 21 2022, 12:16
+% Table:                Table 1 - Line Integration 1 (lpeq.g_u)
+% Boundary flux/source   Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source
+0.5037694911921442       0.4166529795256329       -0.17973586485172396     0.3935384445692385       0.4138354385568158       0.5620817389365199       -0.12550783838871754     0.38842301951236885      -0.2557484698073751      0.3924211160167549       0.3945738360484353       0.4412348693001398       0.4842094086947665       -0.2126068473308231      0.49322055799618925      -0.15926195339870636     0.5270714662516769

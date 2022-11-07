@@ -1,0 +1,6 @@
+% Model:                Smith_sources.mph
+% Version:              COMSOL 4.1.0.88
+% Date:                 May 23 2022, 10:37
+% Table:                Table 1 - Line Integration 1 (lpeq.g_u)
+% Boundary flux/source   Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source
+0.6250576440816518       0.49211492003453544      -0.2652234701200773      0.45571204720393055      0.4940726167128036       0.7238873462277594       -0.20354275094454666     0.4569984449891283       -0.3726472704909475      0.46485571903154504      0.46473574772396037      0.5355408450545062       0.6002938332860158       -0.32687963423090466     0.6119214591255109       -0.24084555767547328     0.6658569808100814

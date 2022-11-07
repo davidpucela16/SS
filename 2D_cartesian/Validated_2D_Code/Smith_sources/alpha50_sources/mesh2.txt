@@ -1,0 +1,6 @@
+% Model:                Multiple_sources_network_tests.mph
+% Version:              COMSOL 4.1.0.88
+% Date:                 May 16 2022, 14:44
+% Table:                Table 2 - Line Integration 1 (lpeq.g_u)
+% Boundary flux/source   Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source     Boundary flux/source
+0.5742570993711702       0.4524518175841005       0.38524803036474153      0.4040091283395424       0.31425441013056526      0.5803159961340391       0.4762124711321407       0.3464683578701655       0.2653006281593668       0.25419685761476446      0.30725466929067435      0.4328259444038305       0.47521220904849504      0.3686763952461591       0.5222961818283364       0.43111864823907003      0.5186295054234444

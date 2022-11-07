@@ -1,0 +1,6 @@
+% Model:                file.mph
+% Version:              COMSOL 4.1.0.88
+% Date:                 May 19 2022, 16:25
+% Table:                alpha50_d3_sources - Line Integration 1 (lpeq.g_u)
+% Boundary flux/source   Boundary flux/source
+0.5293412035327051       0.5293408829810249
